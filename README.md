@@ -1,2 +1,2 @@
-# Damage-Calculator
-Detects the damage done by bullet on a wall
+# p5.play-boilerplate
+Boiler plate for p5.play
